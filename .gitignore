@@ -1,0 +1,8 @@
+.cproject
+.project
+*.liop*
+*.miop*
+*.oiop*
+*.o
+IntensityOrderFeature
+

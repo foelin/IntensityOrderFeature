@@ -46,6 +46,7 @@ OpenCV 3.0+
 Reference:
 [1] Zhenhua Wang, Bin Fan and Fuchao Wu, “Local Intensity Order Pattern for Feature Description”,
 IEEE International Conference on Computer Vision (ICCV) , Nov. 2011
+
 [2] Zhenhua Wang, Bin Fan, Gang Wang and Fuchao Wu, “Exploring Local and Overall Ordinal Information for Robust Feature Description”,
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Dec. 2016.
 

@@ -1,7 +1,7 @@
 # Intensity Order based Local Features
 
 
-IntensityOrderFeature is open source with a [public repository](https://github.com/foelin/IntensityOrderFeature.git) on GitHub.
+IntensityOrderFeature is open source with a [public repository](https://github.com/foelin/IntensityOrderFeature.git) on GitHub. It includes the **LIOP**, **OIOP** and **MIOP** descriptors that are published in [1,2].
 
 
 This is a free software.
